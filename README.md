@@ -93,6 +93,9 @@ I use Google Workspace for a lot of my work.
 Docker is a containerization platform that provides a simple way to build, deploy, and manage software containers. Docker containers are isolated from each other and from the host operating system.
 
 ```bash
+#to check docker version
+docker --version
+o/p:-Docker version 24.0.2,
 # To start the docker daemon:
 docker -d
 # To start a container with an interactive shell:
